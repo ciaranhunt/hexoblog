@@ -1,6 +1,6 @@
 language: node_js  #设置语言
 
-os: manjaro
+os: - manjaro
 
 node_js: 13.5.0  #设置相应的版本
 
@@ -15,7 +15,7 @@ before_install:
 install:
   - npm install  #安装hexo及插件
   - npm install cheerio@0.22.0 --save
-  - npm install hexo-renderer-pug hexo-renderer-stylus
+  - npm install hexo-renderer-pug hexo-renderer-stylus --saveoryarn add hexo-renderer-pug hexo-renderer-stylus
 
 script:
   - hexo g #生成
