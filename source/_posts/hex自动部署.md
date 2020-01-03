@@ -8,6 +8,4 @@ tags:
     -hexo
 
 ---
-
-root@localhost: BmiE&;dm+16m
-https://segmentfault.com/a/1190000013286548
+自动部署就不写了，参考了这位老哥的[文章](https://segmentfault.com/a/1190000013286548).
