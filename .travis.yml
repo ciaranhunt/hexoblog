@@ -44,5 +44,6 @@ env:
 notifications:
   email:
     - 571074750@qq.com
+    - 2859409950@qq.com
   on_success: change
   on_failure: always
