@@ -1,5 +1,7 @@
 language: node_js  #设置语言
 
+os: manjaro
+
 node_js: 13.5.0  #设置相应的版本
 
 cache:
