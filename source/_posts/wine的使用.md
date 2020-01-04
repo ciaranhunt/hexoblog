@@ -1,6 +1,6 @@
 ---
 
-title: 安装hexo
+title: 在manjaro下使用wine
 date: 2019-12-31 18:10:24
 categories:
     -技术向
@@ -69,3 +69,7 @@ chmod 755 test.desktop
 ```
 
 Wine安装应用时一般会添加这个菜单，如果没有的话可以在~/.local/share/applications/wine/下新建目录和.desktop文件，按[Desktop Entry]的格式自行设置。
+
+## 使用体验
+
+QQ音乐的使用应该超出了预期，qq是真的难用。

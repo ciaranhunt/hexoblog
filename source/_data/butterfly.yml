@@ -12,8 +12,8 @@ menu:
   友链: /link/ || fa fa-link
   关于: /about/ || fa fa-heart
   其它||fa fa-list:
-    - 音乐 || /music/ || fa fa-music
-    - 电影 || /movies/ || fa fa-film
+    - Music || /music/ || fa fa-music
+    - Movie || /movies/ || fa fa-film
 
 # Favicon
 # ---------------
@@ -33,7 +33,7 @@ favicon: /img/favicon.ico
 
 # Highlight theme
 # ---------------
-highlight_theme: light # default / darker / pale night / light / ocean
+highlight_theme: darker # default / darker / pale night / light / ocean
 highlight_copy: true #代碼複製按鈕
 highlight_lang: true #代碼語言顯示
 highlight_shrink: false # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
@@ -279,9 +279,9 @@ qihu_site_verification:
 Flink:
   headline: 友情鏈接
   info_headline: 我的Blog資料
-  name: Blog 名字： Ciaran HUnt
-  address: Blog 地址： https://jerryc.me/
-  avatar: Blog 頭像： https://jerryc.me/img/avatar.png
+  name: Blog 名字： Ciaran Hunt
+  address: Blog 地址： https://ciaranhunt.github.io/
+  avatar: Blog 頭像： https://ciaranhunt.github.io/img/avatar.png
   info: Blog 簡介： 今日事,今日畢
   comment: 如果需要交換友鏈,請留言
 
@@ -351,7 +351,7 @@ footer_bg: false
 # canvas_ribbon 禁止彩帶背景
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 150
   alpha: 0.6
   zIndex: -1

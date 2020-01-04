@@ -1,12 +1,12 @@
 ---
-
 title: 安装hexo
 date: 2019-12-31 18:10:24
 categories:
     -技术向
 tags:
     -hexo
-
+top_img: https://s2.ax1x.com/2020/01/04/lwqRj1.md.jpg
+cover: https://s2.ax1x.com/2020/01/04/lwqsNF.png
 ---
 
 ## 前言
