@@ -118,3 +118,12 @@ suka_theme:
 
 # 压缩文件插件
 all_minifier: true
+
+# 电影插件
+douban:
+  user: 205569199
+  builtin: true
+  movie:
+    title: '大千世界'
+    quote: '影出精彩'
+  timeout: 10000 
