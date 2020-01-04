@@ -2,18 +2,18 @@ class:
   class_name: 友情链接
   link_list: 
     1:
-      name: xxx 
-      link: https://blog.xxx.com 
-      avatar: https://cdn.xxxxx.top/avatar.png 
-      descr: xxxxxxx 
+      name: jerryc 
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 主题提供者
     2:
-      name: xxxxxx 
-      link: https ://www.xxxxxxcn/ 
-      avatar: https://xxxxx/avatar.png 
-      descr: xxxxxxx
+      name: hexo中文
+      link: https://hexo.io/zh-cn/
+      avatar: https://s2.ax1x.com/2020/01/04/lwqsNF.png
+      descr: 静态博客生成器
  
 class2:
-  class_name: 链接无效
+  class_name: 推荐
   link_list: 
     1:
       name: 梦xxx 
